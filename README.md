@@ -88,7 +88,17 @@ function flameRecursion(x, y, scale) {
 
 ## Screenshots
 
-Screenshots of the completed game will be added here.
+### Daytime Gameplay
+
+![Daytime gameplay showing character, enemy, collectables and platform](Game-ScreenShots/daytime-gameplay.png)
+
+### Night-Time Gameplay
+
+![Night-time gameplay showing character jumping under the moon and stars](Game-ScreenShots/night-gameplay.png)
+
+### Game Over
+
+![Game over state](Game-ScreenShots/game-over.png)
 
 ## Source Code
 
